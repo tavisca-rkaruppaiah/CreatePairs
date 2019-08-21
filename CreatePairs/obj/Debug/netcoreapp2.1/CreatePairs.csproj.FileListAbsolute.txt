@@ -1,0 +1,11 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.1\CreatePairs.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.1\CreatePairs.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.1\CreatePairs.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.1\CreatePairs.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.1\CreatePairs.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.1\CreatePairs.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.1\CreatePairs.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.1\CreatePairs.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.1\CreatePairs.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.1\CreatePairs.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.1\CreatePairs.pdb
